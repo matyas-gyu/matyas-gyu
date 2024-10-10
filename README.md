@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Matyas, a Mechanical Engineering student from Queen Mary University of London. I'm passionate about leveraging data and technology to solve complex problems and looking to start a career as a Python quant analyst or data scientist.
+I'm Matyas, a Mechanical Engineering student from Queen Mary University of London. I'm passionate about leveraging data and technology to solve complex problems and looking to start a career as a Python financial data scientist.
 
 ## 🛠️ Skills
 - **Languages**: Python, MATLAB, SQL
